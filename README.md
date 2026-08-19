@@ -95,6 +95,18 @@ python -X utf8 tests/test_app_logic.py
 
 ---
 
+## 🗺️ Roadmap & Évolutions Futures
+
+- [ ] **🔍 Module SEO & Idéation "Zero-Cost" (Clone Answer The Public)** :
+  - Générateur automatique de questions fréquentes et de mots-clés longue traîne via l'API Google Autocomplete (100% gratuit, sans compte ni clé API).
+  - Injection directe des questions trouvées (*Qui, Que, Pourquoi, Comment, Prix...*) dans l'Éditeur pour rédaction assistée par l'IA locale.
+- [ ] **🌐 Hub d'Outils & Ressources Web Gratuits** :
+  - Raccourcis et intégrations des outils d'analyse web/SEO gratuits pour enrichir la veille éditoriale.
+- [ ] **📊 Import de données SEO (CSV / Excel)** :
+  - Support de l'import de listes de mots-clés provenant d'outils externes (LowFruits, Ubersuggest, Google Keyword Planner) pour planifier les articles et posts.
+
+---
+
 ## 📄 Licence
 
 Ce projet est distribué sous **Licence MIT Open-Source**. Vous êtes libre de l'utiliser, le modifier et le distribuer. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
